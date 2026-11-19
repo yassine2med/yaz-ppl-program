@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Yaz's PPL Program">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0b10"/>
+      <stop offset="1" stop-color="#14141c"/>
+    </linearGradient>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff6b4a"/>
+      <stop offset="1" stop-color="#8f7cff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#g)"/>
+  <rect x="60" y="214" width="1080" height="4" rx="2" fill="url(#a)" opacity="0.8"/>
+  <text x="60" y="130" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="64" font-weight="800" fill="#ffffff">Yaz's PPL Program</text>
+  <text x="60" y="180" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" fill="#a9acc0">A 12-week Push / Pull / Legs tracker, built as an installable web app</text>
+  <text x="60" y="254" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" fill="#7d8099">React 19  ·  Vite  ·  PWA  ·  Firebase (optional)</text>
+</svg>
