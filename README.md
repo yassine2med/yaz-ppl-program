@@ -4,7 +4,7 @@
 
 <br>
 
-A 12-week **Push / Pull / Legs** training app I built for myself, after I gained weight during a stressful stretch and did not want a generic YouTube program. It is designed around one gym, one goal and one person, and I use it in real workouts.
+A 12-week **Push / Pull / Legs** training app I built for myself, because I wanted a plan built around my own gym and goals, not a generic YouTube program. It is designed around one gym, one goal and one person, and I use it in real workouts.
 
 ![React](https://img.shields.io/badge/React_19-14181c?style=flat-square&logo=react&logoColor=8fb08a)
 ![Vite](https://img.shields.io/badge/Vite-14181c?style=flat-square&logo=vite&logoColor=8fb08a)
